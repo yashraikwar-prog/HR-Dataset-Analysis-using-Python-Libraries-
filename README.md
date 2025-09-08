@@ -1,9 +1,9 @@
 # HR-Dataset-Analysis-using-Python-Libraries-
-Overview
+Overview:
 
 This project contains a Jupyter notebook (HR Dataset Project file.ipynb) that performs exploratory data analysis (EDA) on an HR dataset using Python libraries such as Pandas, Matplotlib, Seaborn, and NumPy. The dataset (HRDatasets.csv) is analyzed to uncover insights about employee metrics, including hiring trends, department headcounts, positions, attrition, salary, age, and tenure.
 
-## Visualizations
+## Visualizations:
 - [Average Salary by Department](https://github.com/yashraikwar-prog/HR-Dataset-Analysis-using-Python-Libraries-/blob/main/Average%20Salary%20By%20Department.png)
 
 - [Total Employees in Each Department](https://github.com/yashraikwar-prog/HR-Dataset-Analysis-using-Python-Libraries-/blob/main/Total%20Employees%20in%20Each%20Department.png)
@@ -16,7 +16,7 @@ This project contains a Jupyter notebook (HR Dataset Project file.ipynb) that pe
 
 - [Distribution of Performance Scores](https://github.com/yashraikwar-prog/HR-Dataset-Analysis-using-Python-Libraries-/blob/main/Distribution%20of%20Performance%20Scores.png)
 
-Project Description
+Project Description:
 
 The notebook loads and cleans the HR dataset, generates visualizations, and produces a summary report. Key findings include:
 
@@ -28,7 +28,7 @@ Average salary: Rs. 69,020.68
 Average age: 46.2 years
 Average tenure: 12.53 years (as of 2025)
 
-Requirements
+Requirements:
 
 To run the notebook, ensure you have the following Python libraries installed:
 
@@ -37,6 +37,6 @@ Matplotlib
 Seaborn
 NumPy
 
-Dataset
+Dataset:
 
 The analysis uses HRDatasets.csv, which contains employee data such as names, IDs, departments, salaries, performance scores, and more.
