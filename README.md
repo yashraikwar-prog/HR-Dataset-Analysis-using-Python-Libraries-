@@ -1,5 +1,6 @@
 # HR-Dataset-Analysis-using-Python-Libraries-
 Overview
+
 This project contains a Jupyter notebook (HR Dataset Project file.ipynb) that performs exploratory data analysis (EDA) on an HR dataset using Python libraries such as Pandas, Matplotlib, Seaborn, and NumPy. The dataset (HRDatasets.csv) is analyzed to uncover insights about employee metrics, including hiring trends, department headcounts, positions, attrition, salary, age, and tenure.
 
 ## Visualizations
@@ -16,6 +17,7 @@ This project contains a Jupyter notebook (HR Dataset Project file.ipynb) that pe
 - [Distribution of Performance Scores](https://github.com/yashraikwar-prog/HR-Dataset-Analysis-using-Python-Libraries-/blob/main/Distribution%20of%20Performance%20Scores.png)
 
 Project Description
+
 The notebook loads and cleans the HR dataset, generates visualizations, and produces a summary report. Key findings include:
 
 Total employees: 311
@@ -27,6 +29,7 @@ Average age: 46.2 years
 Average tenure: 12.53 years (as of 2025)
 
 Requirements
+
 To run the notebook, ensure you have the following Python libraries installed:
 
 Pandas
@@ -34,6 +37,6 @@ Matplotlib
 Seaborn
 NumPy
 
-
 Dataset
+
 The analysis uses HRDatasets.csv, which contains employee data such as names, IDs, departments, salaries, performance scores, and more.
